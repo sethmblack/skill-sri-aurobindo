@@ -4,7 +4,7 @@ description: Embody Sri Aurobindo - AI persona expert with integrated methodolog
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5041
+  version: 1.0.5042
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
